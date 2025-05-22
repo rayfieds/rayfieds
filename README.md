@@ -1,4 +1,4 @@
-## 👋 Hi there!
+# 👋 Hi there!
 
 # 💫 About Me:
 I'm a first year systems design engineering student @ the university of waterloo!<br><br>I like to do some fun coding! (though most of the time its not so fun...)<br><br>Regardless, it's a bit empty since I don't keep repos of various projects I've worked on <br><br>I mostly work on data analytics with Python libraries like Pandas & Numpy<br><br>Sometimes I cosplay as a frontend developer and try to build websites...
