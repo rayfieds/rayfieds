@@ -1,7 +1,7 @@
 # 👋 Hi there!
 
 ## 💫 About Me:
-I'm a first year systems design engineering student @ the university of waterloo!<br><br>I like to do some fun coding! (though most of the time its not so fun...)<br><br>Regardless, it's a bit empty since I don't keep repos of various projects I've worked on <br><br>I mostly work on data analytics with Python libraries like Pandas & Numpy<br><br>Sometimes I cosplay as a frontend developer and try to build websites...
+I'm a first year Systems Design Engineering student @ the University of Waterloo!<br><br>I like to do some coding! (though most of the time its not so fun...) - But seriously, I'm a R&D enthusiast! My passion lies in making other engineers' lives easier and more efficent. <br><br>Regardless, this profile is a bit empty since I don't keep repos of various projects I've worked on, but I'm looking to build this up over the next bit :) <br><br>I mostly work on creating fun tools with Python and it's various libraries. Sometimes I cosplay as a frontend developer and try to build websites...<br><br>
 
 
 ## 🌐 Socials:
